@@ -1,0 +1,10 @@
+.username {
+    font-size: 32px;
+}
+a:hover{
+    color: red;
+    font-size: 32px;
+}
+main{
+    border: 2px solid red;
+}
